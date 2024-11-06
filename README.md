@@ -1,4 +1,5 @@
-Changelogs Ocean AI Vers : 1.1.0
+Changelogs Ocean AI Vers : 1.1.0 (BUILD 3)
 
-- Overall improvements and stability
-- Bugs fixed
+- Error generating message has been solved
+- overall performance has been improved
+- improves ram management
